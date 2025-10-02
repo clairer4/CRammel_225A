@@ -1,4 +1,4 @@
-# CRammel_225A
+# Claire Rammel
 
 This is my repository for BMS 225a (Fall 2025), Biostatistics and Data Science. My work is organized as follows: 
 
